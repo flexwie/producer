@@ -1,0 +1,7 @@
+{
+  "protoc": {
+    "options": [
+      "--proto_path=~/.cache/buf/v1/module/data/buf.build"
+    ]
+  }
+}
